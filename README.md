@@ -2,7 +2,7 @@
 
 Graphical project implementing ray-casting. Currently can be build only on MacOS systems.
 
-`
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -65,4 +65,4 @@ int main(int ac, char **av)
 		printf("%c,%d,%c,%d,%f\n", cur_type, cur_id, cur_side, cur_q, cur_p);
 	}
 }
-`
+```
